@@ -1,0 +1,39 @@
+{
+"life_forecast": [
+{
+"planet_position": "Transiting Sun Opposition Natal Jupiter",
+"date": "8-7-2019",
+"forecast": "Today will be one of optimism and self-confidence. Your only danger is in becoming over-confident. Don't bite off more than you can chew. Watch the tendency towards self-aggrandizement, false pride, and over-indulgence in food and drink. "
+},
+{
+"planet_position": "Transiting Moon Opposition Natal Mercury",
+"date": "8-7-2019",
+"forecast": "Being a challenging opposition aspect, scrambled or polarized thinking is the potential downside, where you find it difficult to make sense of everyday problems. This can result in arguments caused by emotional bias or just simple lack of understanding. "
+},
+{
+"planet_position": "Transiting Mars Opposition Natal Uranus",
+"date": "8-7-2019",
+"forecast": "You may feel like rebelling against the people you are around today. There is a certain rashness with you and you may feel tempted to let loose in any kind of manner. This impulsiveness, this rashness may lead to accidents and hurt relationships. You need your freedom and others probably need theirs. So hang loose and give people some space. Change at any cost may be what you're feeling today, but carefully consider the costs before you leap into action. The costs may be too high. Look before you leap is the keyword of the day. You are not likely to put up with any restraints today, real or imagined. "
+},
+{
+"planet_position": "Transiting Venus Square Natal Sun",
+"date": "10-7-2019",
+"forecast": "You may have a selfish attitude at the moment which others will pick up on and give you a hard time about, but you really couldn\'e2\'80\'99t care anyway. At work, you may push too hard for a project to go through that's not really a viable plan, or to make a connection with a potential client that's not really a match for the company, because you just want things to go well, and you want everyone. "
+},
+{
+"planet_position": "Transiting Moon Square Natal Uranus",
+"date": "10-7-2019",
+"forecast": "You may feel jumpy and have little patience for anything requiring commitment or focus. You need extra stimulation and excitement and are likely to rebel against anyone who tries to tie you down or forced you to do something. "
+},
+{
+"planet_position": "Transiting Venus Square Natal Mercury",
+"date": "10-7-2019",
+"forecast": "This period should be generally enjoyable, as it finds you in a lighthearted mood, desiring connection and harmony with everyone around you. In your personal relationships, that's probably modified easily enough, but regarding work, your best bet might just be to stay away from negotiations and other tough issues as much as possible. "
+},
+{
+"planet_position": "Transiting Mercury Opposition Natal Uranus",
+"date": "11-7-2019",
+"forecast": "Thoughts race around your head like electricity. New and original ideas bombard your mind and you want to express these in communication with your friends. There is freedom in thought as well as in speech and you don't want anyone to put restraint on you. Avoid jumping to conclusions and slow down your mind if you have to. Pay attention to what you are doing so you don't have an accident. "
+}
+]
+}
